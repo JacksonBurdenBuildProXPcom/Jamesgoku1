@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Jamesgoku1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @JacksonBuildProxP.com
+- 👀 I’m interested in ... the mind
+- 🌱 I’m currently learning ... how to be  more Grounded
+- 💞️ I’m looking to collaborate on ... a BuildShip/ONLY!!!!!!!
+- 📫 How to reach me ...Jamesiecw@gmai.com
 
 <!---
-Jamesgoku1/Jamesgoku1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Jaackson/BurdenBuildproXP.coma ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
